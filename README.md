@@ -10,7 +10,7 @@ Just add this crate as a dependency to your `Cargo.toml`:
 
 ```ini
 [dependencies.simpleflake]
-git = "https://github.com/michaelcontento/simpleflake-rs.git"
+git = "https://github.com/anixe/simpleflake-rs"
 ```
 
 # Usage
