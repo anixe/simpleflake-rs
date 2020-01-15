@@ -2,8 +2,6 @@
 
 Forked from the archived repository [michaelcontento/simpleflake-rs][org-repo].
 
-[![Build Status](https://secure.travis-ci.org/michaelcontento/simpleflake-rs.png?branch=master)](http://travis-ci.org/michaelcontento/simpleflake-rs) [![](https://meritbadge.herokuapp.com/simpleflake)](https://crates.io/crates/simpleflake)
-
 Distributed ID generation in rust for the lazy. Based on the [python implementation][simpleflake-py] from [SawdustSoftware][].
 
 # Installation
