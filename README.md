@@ -1,11 +1,10 @@
 # simpleflake-rs
 
+Forked from the archived repository [michaelcontento/simpleflake-rs][org-repo].
+
 [![Build Status](https://secure.travis-ci.org/michaelcontento/simpleflake-rs.png?branch=master)](http://travis-ci.org/michaelcontento/simpleflake-rs) [![](https://meritbadge.herokuapp.com/simpleflake)](https://crates.io/crates/simpleflake)
 
-
-Distributed ID generation in rust for the lazy. Based on the awesome [python implementation][simpleflake-py] from [SawdustSoftware][].
-
-You can read an overview of what this does and why it came into being at the [Sawdust Software Blog][desc].
+Distributed ID generation in rust for the lazy. Based on the [python implementation][simpleflake-py] from [SawdustSoftware][].
 
 # Installation
 
@@ -29,7 +28,6 @@ println!("timestamp: {}", parts.timestamp);
 println!("random bits: {}", parts.random_bits);
 ```
 
-[desc]: http://engineering.custommade.com/simpleflake-distributed-id-generation-for-the-lazy/
+[org-repo]: https://github.com/michaelcontento/simpleflake-rs
 [simpleflake-py]: https://github.com/SawdustSoftware/simpleflake
-[SawdustSoftware]: http://sawdustsoftware.com/
 

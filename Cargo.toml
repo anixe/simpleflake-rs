@@ -1,14 +1,14 @@
 [package]
 
 name = "simpleflake"
-version = "0.0.4"
-authors = ["Michael Contento <michaelcontento@gmail.com>"]
+version = "1.0.0"
+authors = ["Marcin Szewczyk <ms@anixe.pl>"]
 description = "Distributed ID generation in Rust for the lazy."
-repository = "https://github.com/michaelcontento/simpleflake-rs"
+repository = "https://github.com/anixe/simpleflake-rs"
 readme = "README.md"
 keywords = ["simpleflake", "uuid", "id"]
 license = "MIT"
 
 [dependencies]
-time = "*"
-rand = "*"
+time = "0.1.42"
+rand = "0.7.3"
